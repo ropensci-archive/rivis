@@ -1,0 +1,12 @@
+# Reading List
+- [ ] Buja, A., Asimov, D., Hurley, C., and McDonald, J. A. (1988). Elements of a Viewing Pipeline for Data Analysis. In W. S. Cleveland and M. E. McGill, editors, Dynamic Graphics for Statistics, pages 277–308. Wadsworth, Monterey, CA.
+- [ ] Velleman, P. F. and Velleman, A. Y. (1988). The Datadesk Handbook. Ithaca, New York, Odesta.
+- [ ] Buja, A., Cook, D., and Swayne, D. (1996). Interactive High-Dimensional Data Visualization. Journal of Computational and Graphical Statistics, 5(1), 78–99. 
+- [ ] Unwin, A. R., Hawkins, G., Hofmann, H., and Siegl, B. (1996). Interactive Graphics for Data Sets with Missing Values – MANET. Journal of Computational and Graphical Statistics, 5(2), 113–122.
+- [ ] Swayne, D. F. and Klinke, S. (1999). Introduction to the Special Issue on Interactive Graphical Data Analysis: What is Interaction? Computational Statistics, 14(1), 1–6.
+- [ ] Sutherland, P., Rossini, A., Lumley, T., Dickerson, J., Cox, Z., and Cook, D. (2000). Orca: A Visualization Toolkit for High-Dimensional Data. Journal of Computational and Graphical Statistics, 9(3):509–529.
+- [ ] Wilkinson, L., Rope, D. J., Carr, D. B., and Rubin, M. A. (2000). The Language of Graphics. Journal of Computational and Graphical Statistics, 9(3), 530–543.
+- [ ] Wilkinson, L., Rubin, M., Rope, D., and Norton, A. (2001). nViZn: An Algebra-based Visualization System. In Proceedings of the 1st International Symposium on Smart Graphics, pages 76–82.
+- [ ] Wickham, H., Lawrence, M., Cook, D., Buja, A., Hofmann, H. and Swayne, D. F. (2008) The Plumbing of Interactive Graphics Computational Statistics, http://dx.doi.org/10.1007/s00180-008-0116-x.
+- [ ] Xie, Y., Hofmann, H., and Cheng, X. (2014). Reactive Programming for Interactive Graphics. Statistical Science, 29(2), 201–213.
+- [ ] [Sievert, C (2017). Interfacing R with web technologies for interactive statistical graphics and computing with data](https://github.com/cpsievert/phd-thesis/tree/master/docs)
